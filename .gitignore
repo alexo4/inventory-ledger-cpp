@@ -1,0 +1,6 @@
+build/
+cmake-build-debug/
+.idea/
+.vscode/
+.DS_Store
+inventory-ledger
